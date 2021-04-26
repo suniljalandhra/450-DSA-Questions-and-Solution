@@ -13,4 +13,6 @@
 #### [Check if a tree is balanced or not](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)
 ## Array
 #### [Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
+## Greedy
+#### [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 
