@@ -15,4 +15,5 @@
 #### [Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
 ## Greedy
 #### [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+#### [Job SequencingProblem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)
 
