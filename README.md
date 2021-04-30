@@ -17,4 +17,6 @@
 #### [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 #### [Job SequencingProblem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)
 #### [Huffman Coding](https://practice.geeksforgeeks.org/problems/huffman-encoding/0)
+## Linkedlist
+#### [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1#)
 
