@@ -20,4 +20,7 @@
 ## Linkedlist
 #### [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1#)
 #### [Reverse a Linked List in groups of given size.](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1#)
+#### [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1#)
+## String
+#### [FindDuplicate](https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/)
 
