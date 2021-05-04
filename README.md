@@ -21,6 +21,9 @@
 #### [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1#)
 #### [Reverse a Linked List in groups of given size.](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1#)
 #### [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1#)
+<<<<<<< HEAD
 ## String
 #### [FindDuplicate](https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/)
+=======
+>>>>>>> eba16e1205fb7dc3b86465ccfddf5d6120c0a6c9
 
